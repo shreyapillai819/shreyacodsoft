@@ -1,6 +1,4 @@
-"""
-    Utility functions for loading weights.
-"""
+
 
 import gdown
 
