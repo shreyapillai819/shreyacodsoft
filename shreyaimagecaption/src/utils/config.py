@@ -1,6 +1,4 @@
-"""
-    Project's main config.
-"""
+
 
 import os
 from dataclasses import dataclass
