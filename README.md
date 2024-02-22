@@ -17,5 +17,14 @@ or without Alpha-Beta Pruning to make the AI player unbeatable.
 This project will help you understand game theory and basic search algorithms.
 USED JAVA IN THIS
 
+Task3
+IMAGE CAPTIONING
+
+Combine computer vision and natural language processing to build
+an image captioning AI. Use pre-trained image recognition models
+like VGG or ResNet to extract features from images, and then use a
+recurrent neural network (RNN) or transformer-based model to generate captions for those images.
+USED PYTHON IN THIS
+
 
 WITH UNDERSTANDING AND IMPLEMENTATION OF THESE 2 TASKS I COULD GAIN IMPETUS KNOWLEDGE ABOUT THE WORKING AS IT MADE ME TO LEARN NEW STUFF AND CHARGE UP MY MEMORY.
