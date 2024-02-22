@@ -1,6 +1,4 @@
-"""
-    Module contains Trainer used in training and testing processes.
-"""
+
 
 import io
 import os
