@@ -1,6 +1,4 @@
-"""
-    Script that contains whole training process.
-"""
+
 
 import argparse
 import os
