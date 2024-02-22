@@ -16,3 +16,6 @@ against a human player. You can use algorithms like Minimax with
 or without Alpha-Beta Pruning to make the AI player unbeatable.
 This project will help you understand game theory and basic search algorithms.
 USED JAVA IN THIS
+
+
+WITH UNDERSTANDING AND IMPLEMENTATION OF THESE 2 TASKS I COULD GAIN IMPETUS KNOWLEDGE ABOUT THE WORKING AS IT MADE ME TO LEARN NEW STUFF AND CHARGE UP MY MEMORY.
