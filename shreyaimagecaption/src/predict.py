@@ -1,6 +1,4 @@
-"""
-    Script for single prediction on an image. It puts result in the folder.
-"""
+
 
 import argparse
 import os
