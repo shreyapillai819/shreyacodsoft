@@ -1,6 +1,4 @@
-"""
-    Learning rate scheduler with warmup utility.
-"""
+
 
 
 class LRWarmup:
