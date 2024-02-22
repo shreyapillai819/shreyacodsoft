@@ -1,6 +1,4 @@
-"""
-    Module contains final Model and all pieces of it.
-"""
+
 import torch
 import torch.nn as nn
 from transformers import CLIPModel, CLIPProcessor, GPT2LMHeadModel, GPT2Tokenizer
